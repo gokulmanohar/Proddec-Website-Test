@@ -1019,7 +1019,7 @@ ul.sub-menu li a {
 .newsletter-left {
     height: 325px;
     width: 100%;
-    background-color: #1C1C1C;
+    background-color: #ffffff;
     display: table;
     text-align: center;
 }
@@ -1035,7 +1035,7 @@ ul.sub-menu li a {
     text-align: left;
     font-size: 30px;
     font-weight: 100;
-    color: #FFA200;
+    color: #1C1C1C;
     line-height: 40px;
 }
 
@@ -1043,7 +1043,7 @@ ul.sub-menu li a {
     position: relative;
     height: 325px;
     width: 100%;
-    background-color: #1C1C1C;
+    background-color: #ffffff;
     display: table;
     text-align: center;
 }
@@ -1052,7 +1052,7 @@ ul.sub-menu li a {
     position: absolute;
     left: 50px;
     top: 50px;
-    background: #1C1C1C;
+    background: #ffffff;
     width: calc(100% - 100px);
     height: calc(100% - 100px);
     padding: 60px;
@@ -1069,17 +1069,17 @@ ul.sub-menu li a {
 }
 
 .newsletter-right-inner input:focus {
-    border: 1px solid #FFA200;
+    border: 1px solid #1C1C1C;
 }
 
 .newsletter-right-inner input[type=submit] {
     margin-top: 15px;
     max-width: 175px;
     margin: auto;
-    background: #1C1C1C;
+    background: #FFA200;
     border: 0;
     margin-top: 30px;
-    color: #FFA200;
+    color: #1C1C1C;
     font-size: 18px;
     letter-spacing: 1.5pt;
 }
