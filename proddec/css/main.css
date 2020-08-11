@@ -1017,9 +1017,9 @@ ul.sub-menu li a {
 /* News Letter*/
 
 .newsletter-left {
-    height: 325px;
-    width: 100%;
-    background-color: #ffffff;
+    height: auto;
+    width: auto;
+    background-color: red;
     display: table;
     text-align: center;
 }
@@ -1041,18 +1041,18 @@ ul.sub-menu li a {
 
 .newsletter-right {
     position: relative;
-    height: 325px;
+    height: auto;
     width: 100%;
-    background-color: #ffffff;
+    background-color: red;
     display: table;
     text-align: center;
 }
 
 .newsletter-right-inner {
     position: absolute;
-    left: 50px;
-    top: 50px;
-    background: #ffffff;
+    /* left: 50px; */
+    /* top: 50px; */
+    background: red;
     width: calc(100% - 100px);
     height: calc(100% - 100px);
     padding: 60px;
