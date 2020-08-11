@@ -1,0 +1,5 @@
+//Caching schema
+<FilesMatch "\.(css|png|js)$">
+Header set Cache-Control "private, max-age=5184000"
+</FilesMatch>
+ 
